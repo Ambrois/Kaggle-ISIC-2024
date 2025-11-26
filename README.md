@@ -1,8 +1,10 @@
 Team Kaggle: Matthew Huang, Justin Koida, and Joenna Yaya
+
 Instructor: Cal Poly CSC 480 Rodrigo Canaan
 
 
 Libraries Used: 
+
         - PyTorch
         - Sckit-learn
         - pandas 
